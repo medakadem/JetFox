@@ -2,7 +2,6 @@
 - [Підключення сенсорів](https://medakadem.github.io/JetFox/JetFox_Box/connection_sensor)
 - [Сигназілація світлодіодів](https://medakadem.github.io/JetFox/JetFox_Box/lights_information)
 
-Whenever you commit to this repository, GitHub Pages will run ![shem](./img/shem.svg) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
