@@ -1,7 +1,10 @@
-## Welcome to GitHub Pages
+## Документація по JetFox
+
+Для швидкого переходу виберіть один з пунктів нижче.
+
 - [Підключення сенсорів](https://medakadem.github.io/JetFox/JetFox_Box/connection_sensor)
 - [Сигназілація світлодіодів](https://medakadem.github.io/JetFox/JetFox_Box/lights_information)
-
+- [Авторизація на сайті](https://medakadem.github.io/JetFox/JetFox_Box/login)
 
 ### Markdown
 
