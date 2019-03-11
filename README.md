@@ -5,7 +5,8 @@
 - [Підключення сенсорів](https://medakadem.github.io/JetFox/JetFox_Box/connection_sensor)
 - [Сигназілація світлодіодів](https://medakadem.github.io/JetFox/JetFox_Box/lights_information)
 - [Авторизація на сайті](https://medakadem.github.io/JetFox/JetFox_Box/login)
-
+- [Головна сторінка](https://medakadem.github.io/JetFox/JetFox_Box/main)
+- [Статистика](https://medakadem.github.io/JetFox/JetFox_Box/statistics)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
