@@ -7,6 +7,8 @@
 - [Авторизація на сайті](https://medakadem.github.io/JetFox/JetFox_Box/login)
 - [Головна сторінка](https://medakadem.github.io/JetFox/JetFox_Box/main)
 - [Статистика](https://medakadem.github.io/JetFox/JetFox_Box/statistics)
+- [Налаштування](https://medakadem.github.io/JetFox/JetFox_Box/settings)
+- [Графік роботи](https://medakadem.github.io/JetFox/JetFox_Box/scheduler)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
