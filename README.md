@@ -10,5 +10,6 @@
 - [Налаштування](https://medakadem.github.io/JetFox/JetFox_Box/settings)
 - [Графік роботи](https://medakadem.github.io/JetFox/JetFox_Box/scheduler)
 
-###### JetFox powered by Medakadem            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; support@jetfox.pro
+###### Контакти:
+###### support@jetfox.pro
 ###### +38 044 221 53 04
