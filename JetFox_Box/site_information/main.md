@@ -5,11 +5,11 @@
 - "Причини просто за день" (відображаються причини по яких відбулися простої).
 - "Групи сенсорів" (наприклад можна об'єдна декілька сенсорів в групи для відображення їх роботи по одній лінії).
 
-![switch](/img/site/effective.jpg)
+![switch](../../img/site/effective.jpg)
 Абсолютна ефективність
 
-![switch](/img/site/downtime.jpg)
+![switch](../../img/site/downtime.jpg)
 Причини простою за день
 
-![switch](/img/site/group.jpg)
+![switch](../../img/site/group.jpg)
 Групи сенсорів
